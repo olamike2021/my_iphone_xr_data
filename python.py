@@ -13,10 +13,10 @@ while x < 20:
     x = x + 3
 print(x)
 
-brand = " "
+brand = "iphone-xr"
 age = 1
-number = []
-python = {}
+number = [6, xr10]
+python = {2, 4, 8}
 text = ()
 
 study_2 = 20
@@ -26,4 +26,3 @@ name = "iphone"
 brand = "apple"
 x = 14
 colour "black"
-
